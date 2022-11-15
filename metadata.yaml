@@ -1,0 +1,25 @@
+_repo: The-pleasure-age_69293
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cahill, Joed
+    gutenberg_agent_id: '55198'
+    url: http://www.gutenberg.org/2009/agents/55198
+description: ''
+gutenberg_issued: '2022-11-04'
+identifiers:
+  gutenberg: '69293'
+language: en
+pgterms:marc905: 20220512084448cahill
+pgterms:marc906: '1946'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: 'United States: Standard Magazines, Inc.,1946.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The pleasure age
+url: http://www.gutenberg.org/ebooks/69293
